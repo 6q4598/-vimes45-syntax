@@ -1,5 +1,5 @@
 {
-  "name": "vimes45-syntax",
+  "name": "-vimes45-syntax",
   "theme": "syntax",
   "version": "0.0.0",
   "description": "A theme inspired by the stories of Terry Pratchett",
@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/vimes45-syntax",
+  "repository": "https://github.com/6q4598/-vimes45-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
