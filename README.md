@@ -1,0 +1,1 @@
+# -vimes45-syntax
